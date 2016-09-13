@@ -1,0 +1,16 @@
+{
+  "name": "comp397-boilerplates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {
+    "lite-server": "^2.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",     
+    "dev": "lite-server"  
+  },
+  "author": "Ilmir Taychinov",
+  "license": "MIT"
+}
